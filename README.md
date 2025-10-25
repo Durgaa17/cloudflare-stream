@@ -1,6 +1,3 @@
-# cloudflare-stream
-plays various media from worker
-
 # Video Stream Proxy Worker
 
 ![Banner Image](https://via.placeholder.com/1280x400?text=Video+Stream+Proxy+Worker&bg=007bff&fg=ffffff)  
